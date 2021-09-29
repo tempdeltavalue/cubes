@@ -1,0 +1,5 @@
+﻿  cube.cpp
+C:\Users\m\source\repos\Cube\Cube\cube.cpp(116,9): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'double'
+C:\Users\m\source\repos\Cube\Cube\cube.cpp(117,9): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'double'
+C:\Users\m\source\repos\Cube\Cube\cube.cpp(207,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Cube.vcxproj -> C:\Users\m\source\repos\Cube\Debug\Cube.exe
